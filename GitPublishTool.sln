@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitPublishTool", "GitPublishTool\GitPublishTool.csproj", "{E41205CB-F55D-46CE-B28C-3FAB1C2EAC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41205CB-F55D-46CE-B28C-3FAB1C2EAC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41205CB-F55D-46CE-B28C-3FAB1C2EAC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41205CB-F55D-46CE-B28C-3FAB1C2EAC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41205CB-F55D-46CE-B28C-3FAB1C2EAC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7342F8EE-086F-45F9-AB21-343395DEB8F3}
+	EndGlobalSection
+EndGlobal
